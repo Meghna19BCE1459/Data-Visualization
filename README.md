@@ -12,3 +12,7 @@ SKIP TO STEP 8 IF STEP 7 IS DONE PREVIOUSLY
 
 To execute the Social Distancing Detection Algorithm:
 1. Run the following command: python social_distance_detector.py --input pedestrians.mp4
+
+To use the two Tableau Dashboards:
+1. Install Teableau Desktop application
+2. Download the "COVID State and Country Analysis.twb" and the "Hospital COVID.twb" files and open it with the tool.
